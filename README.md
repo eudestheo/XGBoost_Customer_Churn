@@ -1,7 +1,9 @@
 XGBoost_customer_churn
 ==============================
 
-XGBoost to predict whether or not a customer will stop using a company's service
+XGBoost to predict whether or not a customer will stop using a company's service.
+
+All explorations (Loading, preprocessing and training process) are in the notebooks section.
 
 Project Organization
 ------------
